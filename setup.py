@@ -72,7 +72,8 @@ install_requires = ["biopython",
                     "numpy",
                     "pandas",
                     "pyyaml",
-                    "seaborn"]
+                    "seaborn",
+                    "setuptools"]
 
 
 # Run the setup
